@@ -127,6 +127,28 @@ Optimized classification threshold:
 
 **0.77**
 
+The CNN model was evaluated on 2,000 unseen test images.
+
+- Accuracy: 88.50%
+- Precision: 85.98%
+- Recall: 92.09%
+- F1-Score: 88.98%
+- Optimized Threshold: 0.77
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Training Performance
+
+![Training Accuracy](images/training_accuracy.png)
+
+![Training Loss](images/training_loss.png)
+
+### Sample Prediction
+
+![Prediction Example](images/prediction_example.png)
+
 ---
 
 ## 🔍 Prediction
