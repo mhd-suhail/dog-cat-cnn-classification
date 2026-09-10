@@ -149,18 +149,31 @@ as either Cat or Dog and provide a confidence score.
   
 
 ---
-##🚀 How to Run
+## 🚀 How to Run
+
+
+
 Open the notebook in Google Colab.
+
 Install the required Python libraries.
+
 Configure Kaggle API credentials.
+
 Download the dataset.
+
 Run the notebook cells sequentially.
+
 Train the CNN model.
+
 Evaluate the model.
+
 Upload a new image for prediction.
+
 📌 Note
 
+
 The dataset itself is not included in this repository.
+
 
 Kaggle API credentials such as kaggle.json are also not included
 for security reasons.
